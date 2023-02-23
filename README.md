@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto Trybers and Dragons!
 
-Nesse projeto Back-end simula um jogo RPG, com personagens que tem habilidades diferentes um do outro com possibilidade de simular um combate entre eles. Projeto feito com o ibjetivo de aplicar os conceitos de POO(Programação Orientada a Objetos).
+Nesse projeto Back-end simula um jogo RPG, com personagens que tem habilidades diferentes um do outro com possibilidade de simular um combate entre eles. Projeto feito com o objetivo de aplicar os conceitos de POO(Programação Orientada a Objetos).
 
 
 ## Stacks do Projeto:
